@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1781643201853,
+    "city": "Delhi",
+    "temperature": 32.62,
+    "humidity": 36,
+    "description": "overcast clouds"
+  },
+  {
+    "id": 1781644534651,
+    "city": "Panipat",
+    "temperature": 29.67,
+    "humidity": 54,
+    "description": "scattered clouds"
+  },
+  {
+    "id": 1781644546092,
+    "city": "Delhi",
+    "temperature": 32.62,
+    "humidity": 36,
+    "description": "overcast clouds"
+  },
+  {
+    "id": 1781644599807,
+    "city": "Panipat",
+    "temperature": 29.67,
+    "humidity": 54,
+    "description": "scattered clouds"
+  },
+  {
+    "id": 1781644599962,
+    "city": "Panipat",
+    "temperature": 29.67,
+    "humidity": 54,
+    "description": "scattered clouds"
+  },
+  {
+    "id": 1781644945485,
+    "city": "Panipat",
+    "temperature": 29.67,
+    "humidity": 54,
+    "description": "scattered clouds"
+  },
+  {
+    "id": 1781644950501,
+    "city": "Gannaur",
+    "temperature": 29.38,
+    "humidity": 58,
+    "description": "broken clouds"
+  },
+  {
+    "id": 1781662496584,
+    "city": "Panipat",
+    "temperature": 31.95,
+    "humidity": 41,
+    "description": "few clouds"
+  },
+  {
+    "id": 1781662506302,
+    "city": "Delhi",
+    "temperature": 33.58,
+    "humidity": 37,
+    "description": "clear sky"
+  },
+  {
+    "id": 1781662511415,
+    "city": "Panipat",
+    "temperature": 31.95,
+    "humidity": 41,
+    "description": "few clouds"
+  }
+]
